@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="tk">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RYSGALLY TEHNOLOGIYA</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f8f8f8;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: white;
+      padding: 30px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 36px;
+      text-transform: uppercase;
+    }
+    header p {
+      font-size: 16px;
+      margin-top: 10px;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #004080;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+    footer {
+      background: #eee;
+      text-align: center;
+      padding: 15px;
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>RYSGALLY TEHNOLOGIYA</h1>
+  <p>Açyk görnüşli paýdarlar jemgyýeti</p>
+</header>
+
+<main>
+  <section>
+    <h2>Kompaniýanyň umumy beýany</h2>
+    <p>
+      “RYSGALLY TEHNOLOGIYA” açyk görnüşli paýdarlar jemgyýeti başlangyçda 1994-nji ýylyň 3-nji aprelinde döredilen “Yrsgally” hususy kärhanasy hökmünde hasaba alyndy. 2009-njy ýylyň 10-njy aprelinde ykdysady jemgyýet hökmünde täzeden hasaba alyndy. 2023-nji ýylda açyk görnüşli paýdarlar jemgyýeti görnüşine geçdi. 2010-njy ýyldan bäri Türkmenistanyň Senagatçylar we Telekeçiler birleşiginiň agzasydyr.
+    </p>
+  </section>
+
+  <section>
+    <h2>Ýuridiki we önümçilik salgysy</h2>
+    <p>
+      <strong>Ýuridiki salgysy:</strong><br>
+      Aşgabat şäheri, Berkararlyk etraby, 11-nji mikroraýon,<br>
+      Baba Annanow köçesi, 114/1 jaý<br><br>
+      <strong>Önümçilik salgysy:</strong><br>
+      Ahal welaýaty, Ak Bugdaý etraby,<br>
+      Senagat zolagy, Zümmeret köçesi, 28-nji jaý
+    </p>
+  </section>
+
+  <section>
+    <h2>Kontakt maglumatlary</h2>
+    <p>
+      Tel: +993 65 14 55 00<br>
+      Web: <a href="http://rysgallytech.com" target="_blank">rysgallytech.com</a><br>
+      Baş direktor: Pälwanowa Ogulgerek<br>
+      Ustaw fondu: 4 million manat
+    </p>
+  </section>
+
+  <section>
+    <h2>Bank maglumatlary</h2>
+    <p>
+      Bank: “Rysgal” paýdarlar-täjirçilik banky<br>
+      Hasap belgisi: 23202934173862915580000<br>
+      Köp walýutaly hasap: 23202000173862315580000<br>
+      Kontakt hasap №: 21101934110100900012000<br>
+      BAB: 390101738<br>
+      Swift: RYSGTM2A<br>
+      Bank salgysy: Ankara köçesi, 23, Aşgabat, 744017
+    </p>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 RYSGALLY TEHNOLOGIYA – Ähli hukuklar goragly
+</footer>
+
+</body>
+</html>
+
